@@ -1,0 +1,98 @@
+/* Dark Theme for Custom CRM 
+body {
+    background-color: #2C2E36 !important;
+    color: #ffffff !important;
+}
+
+.oe_form_field {
+    background-color: #1e1e1e !important;
+    color: #ffffff !important;
+}
+
+.o_list_view th,
+.o_list_view td {
+    background-color: #2C2E36 !important;
+    color: #ffffff !important;
+    border-color: #444444 !important;
+}
+
+.o_form_view .oe_title {
+    color: #ffffff !important;
+}
+
+.o_form_buttons .btn-primary {
+    background-color: #37474f !important;
+    color: #ffffff !important;
+    border-color: #607d8b !important;
+}
+
+.o_form_buttons .btn-primary:hover {
+    background-color: #455a64 !important;
+}
+.o_form_sheet{
+    background-color: #150533 !important;
+}
+.o_menu_header_lvl_1 {
+    background-color: #263238 !important;
+    color: #ffffff !important;
+}
+
+.o_sub_menu {
+    background-color: #2C2E36 ;
+}
+.o_mail-Message{
+    background-color: #3d082d!important;
+
+}
+
+.o-mail-ChatHub-bubbles {
+    background-color: #210752 !important; /* Set background color *
+    overflow-x: hidden !important;        /
+    color: #ffffff !important;            
+}
+
+.d-flex,
+.d-print-none,
+.dropdown,
+.dropdown-item,
+.dropdown-toggle,
+.flex-column,
+.gap-3,
+.h-100,
+.o-dropdown,
+.o-dropdown-item,
+.o-navigable,
+.o_action_manager,
+
+.o_control_panel,
+.o_crm_form_view,
+.o_form_renderer,
+.o_form_view,
+.o_main_navbar,
+.o_menu_brand,
+.o_navbar,
+.o_navbar_apps_menu,
+.o_web_client,
+.o_xxl_form_view,
+.oi,
+.oi-apps {
+    background-color: #121212 !important;
+    color: #ffffff !important;
+    border-color: #444444 !important;
+}
+
+/* Example for Buttons Inside Classes 
+.d-flex .btn,
+.dropdown .btn,
+.o_form_renderer .btn {
+    background-color: #37474f !important;
+    color: #ffffff !important;
+    border-color: #607d8b !important;
+}
+
+.d-flex .btn:hover,
+.dropdown .btn:hover,
+.o_form_renderer .btn:hover {
+    background-color: #455a64 !important;
+}
+*/

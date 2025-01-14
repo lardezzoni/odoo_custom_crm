@@ -1,0 +1,7 @@
+<odoo>
+    <template id="assets_backend" name="Custom CRM Dark Theme" inherit_id="web.assets_backend">
+        <xpath expr="." position="inside">
+            <link rel="stylesheet" type="text/css" href="/custom_crm/static/src/css/custom_crm_dark.css"/>
+        </xpath>
+    </template>
+</odoo>

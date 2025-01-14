@@ -23,12 +23,18 @@ Long description of module's purpose
     # always loaded
     'data': [
         'security/ir.model.access.csv',
+        'views/custom_crm_menu.xml',
         'views/custom_crm_views.xml',
     ],
     # only loaded in demonstration mode
     'demo': [
         'demo/demo.xml',
     ],
+    'assets': {
+        'web.assets_backend': [
+            'custom_crm/static/src/css/custom_crm_dark.css',
+        ],
+    },
     'installable': True,
     'application': True,
 }
